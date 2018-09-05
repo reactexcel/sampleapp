@@ -53,7 +53,6 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
 
 #ios
 .AwesomeProject
@@ -61,7 +60,7 @@ local.properties
 .AwesomeProjectTests
 .AwesomeProject-tvOS
 .AwesomeProject-TVOSTests
-/ios/
+
 
 # Node
 node_modules

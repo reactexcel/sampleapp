@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_5621313a41c128f06be5b3d81c68271660eedd43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/53ba143d087e09cafd6fd09dac069a86991b4717/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_4ea04b7201529afeabc3600bff10d3e4a706d1a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/02efadd9b23a851aafa644156cc3bfdaae1d11ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_95ec21610784ae008318ac18eed44ccc30c20e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_85af022ed18f2ba9b57763e2fd972fee6001153a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_73730444efab24cf0a04bcb56c5d695a9713d32f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/f44533f86bec2bb59253708790c98e57d9e3d302/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_6db8d4d673f6c0723b621f061c76691aaacc31bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/f72b850db88c37b50b3e37bdff426c2c8fcce688/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_234ce39c253fd8b4e8fa637d3ac4db476190e46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/77b1699b5cb8959e2593adc6c0259806c2521743/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_11ee38fd612f803e6bcf9ba1d862be8fe5e6ed11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/58358255d8a82473d83106d21a44237131c8c804/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_d717001c22829f63e3f980e6e5ea5f83daee7c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/1c71f162d7f689e44522f3ee8ddc5fb13261d8ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_960b9a505d08656a82889494ba3c003e5acb51f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/b72fc8e2cb34a68c7ba699f77dd5f4d9cd1426e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_65bb4b6bad10b48a9b814d28322864ecc44453f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_6987b3ddcc9a76bb31608b5d5b8a747bb8021a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_4c7c4dcf24e1467f3c13c68ba97a9600cb615f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_84c7bf675a57bf834fa415d1beb48afcbe7a0467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/7fc70d72fce4c41ce3cd80ab0d5d01af28e9b8d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_5558eb6a7bc87d6eb1bdde0ae1a07abdd75ef439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/8659e460463179982fdcbc025c5aa72bc902f1e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_902a8deb6af27af73de8c7cc0a11faea04b70589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/c4beffb268bb7d6110aac95e71fc7a9521d8da8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_54bb84b90b5a12d06c763fa57d24d7770e4364c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_799a9479138668e83dded9bad20c845e4a3dba29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/b536548320e07cbb98fcae1723a4f119d58b39c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c98faf4c9c3b6e28dec991c2757325089d469cfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_234d16a1ef6c9b5941efd7a1573538ccc49cdd03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/e6ea37f3b73c3bebedcf759b5878e843f90a9164/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_9e6d16d4e482512f66c56d3749c0f53c8dd41acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_ceea48c3e413916f65f6f73fb6301aa194dde6da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/5bb0107fb96367e77c5f5ae6ac6c4f7a246c7bb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_2ffb76934dcf9436421af5fc53230a501526807a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/aea75b1eb3a5627dc5b91fd73530de5dd05a6d4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_68cb247c6a0fdf36ab7b7da981171dd02bbac94b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_fc6dd325015821208362f45a16e59d7cb62169c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/5149c0b7ee1a65d3352bf7f4b1e106bf36b8b3d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_dda95e3dd370a4bd99353f4a805734cdfd3a84b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/e7e8fb27a78ce3814f3505a53abb37ec55ba5983/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_f428532716aecdd0fa5b5f48024c7ede68b49696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/1872363c29413c26dc4ec91bcdde127486495513/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0d2278536f08672b1c06b965a15f2e8bff5d63f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/1872363c29413c26dc4ec91bcdde127486495513/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_cd963de60b69311f5fae9eba966e78c7730ee4f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/etech/.android/build-cache/cc90f29af95a62100d194551707431aae5555906/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_1efeceb5ba943fc34b665e45d509702438fd7f9e.jar" />
+    </item>
+
+</items>
