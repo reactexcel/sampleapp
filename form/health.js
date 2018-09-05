@@ -63,7 +63,7 @@ class HealthProfile extends Component {
           </View>
           <View style={{ flex: 1, margin: 20 }}>
             <Form>
-              <View style={styles.weight}>
+              <View style={styles.userEnter}>
                 <Item inlineLabel last>
                   <Label>Weight</Label>
                   <Input
