@@ -67,7 +67,7 @@ class HealthProfile extends Component {
                 <Item inlineLabel last>
                   <Label>Weight</Label>
                   <Input
-                    value={this.state.userEntry}
+                    value={this.state.userEnter}
                     onChangeText={e => {
                       this.setState({ Weight: e });
                     }}
@@ -75,7 +75,7 @@ class HealthProfile extends Component {
                   />
                 </Item>
               </View>
-              <View style={styles.userEntry}>
+              <View style={styles.userEnter}>
                 <Item inlineLabel last>
                   <Label>Height</Label>
                   <Input
@@ -87,7 +87,7 @@ class HealthProfile extends Component {
                   />
                 </Item>
               </View>
-              <View style={styles.userEntry}>
+              <View style={styles.userEnter}>
                 <Item inlineLabel last>
                   <Label>Age</Label>
                   <Input
