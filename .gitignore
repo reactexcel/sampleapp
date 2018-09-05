@@ -31,7 +31,8 @@ project.xcworkspace
 *.flowconfig
 
 # Gradle
-/build/
+/android/app/build/
+/android/build/
 /RNTester/android/app/build/
 /RNTester/android/app/gradle/
 /RNTester/android/app/gradlew

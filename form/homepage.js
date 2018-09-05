@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { View, StyleSheet,TouchableWithoutFeedback } from "react-native";
+import { View, StyleSheet, TouchableWithoutFeedback } from "react-native";
 import {
   Container,
   Content,
@@ -23,45 +23,25 @@ class Home extends Component {
     header: null,
     headerBackTitle: null
   };
-onPress=()=>{
+  onPress = () => {
     this.props.navigation.navigate("SignUpPage");
-}
-onPres=()=>{
+  };
+  onPres = () => {
     this.props.navigation.navigate("HealthProfile");
-}
+  };
   render() {
     return (
-      <Container style={{ flex: 1, backgroundColor: "#14AAF0" }}>
+      <Container style={styles.Container}>
         <View style={{ flex: 1, justifyContent: "center" }}>
-        <TouchableWithoutFeedback onPressIn={this.onPress} >
-          <View
-            style={{
-              width: 300,
-              height: 70,
-              backgroundColor: "white",
-              margin: 30,
-              borderRadius:35,
-              justifyContent:'center'
-            }}
-            
-          >
-          <Text  style={{alignSelf:'center'}} >Create Profile</Text>
-          </View>
+          <TouchableWithoutFeedback onPressIn={this.onPress}>
+            <View style={styles.View}>
+              <Text style={{ alignSelf: "center" }}>Create Profile</Text>
+            </View>
           </TouchableWithoutFeedback>
-
-        <TouchableWithoutFeedback onPressIn={this.onPres} >
-          <View
-            style={{
-              width: 300,
-              height: 70,
-              backgroundColor: "white",
-              margin: 30,
-              borderRadius:35,
-              justifyContent:'center'
-            }}
-          >
-          <Text style={{alignSelf:'center'}} >Health Profile</Text>
-          </View>
+          <TouchableWithoutFeedback onPressIn={this.onPres}>
+            <View style={styles.View}>
+              <Text style={{ alignSelf: "center" }}>Health Profile</Text>
+            </View>
           </TouchableWithoutFeedback>
         </View>
       </Container>
@@ -69,3 +49,14 @@ onPres=()=>{
   }
 }
 export default Home;
+const styles = StyleSheet.create({
+  Container: { flex: 1, backgroundColor: "#14AAF0" },
+  View: {
+    width: 300,
+    height: 70,
+    backgroundColor: "white",
+    margin: 30,
+    borderRadius: 35,
+    justifyContent: "center"
+  }
+});
